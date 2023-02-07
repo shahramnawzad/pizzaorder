@@ -1,0 +1,194 @@
+*{
+	font-family: RudawRegular;
+}
+html{
+	overflow-x: hidden;
+}
+.form{
+	color: black;
+	border-radius: 10px;
+	height:350px;
+	box-shadow: 0px 0px 7px 1px black;
+	position: relative;
+	left: 30%;
+	top: 100px;
+	width: 400px;
+}
+.lg{
+	color: blueviolet;
+	font-size: 20px;
+}
+.up{
+	position: relative;
+	height: 40px;
+	top: 10px;
+	font-size: 20px;
+	color: black;
+	text-align: center;
+}
+.login{
+	background: #247bd4;
+	color: white;
+	position: relative;
+	right: 100px;
+	top: 70px;
+	border: none;
+	padding: 5px;
+	border-radius: 10px;
+	width: 130px;
+}
+.user{
+	position: relative;
+	left: 140px;
+}
+.usern{
+	position: relative;
+	left: 160px;
+}
+.nn{
+	border: none;
+	border-radius: 5px;
+	width: 220px;
+	height: 30px;
+	position: relative;
+	left: 80px;
+}
+.input{
+	position: relative;
+	top: 20px;
+	left: 10px;
+	border: none;
+}
+header{
+	position:fixed;
+	background: #943227;
+	top: 0px;
+	height: 70px;
+	width: 105%;
+	right: -55px;
+	z-index: 1;
+	
+
+}
+.img img{
+	position: relative;
+	top: 80px;
+	left: 190px;
+	border-radius: 20px;
+
+}
+.ul li{
+	list-style-type: none;
+	display: inline-block;
+	margin: 0 20px;
+	position: relative;
+	bottom: 10px;
+	right: 26px;
+	color: white;
+}
+.ul li a{
+	text-decoration: none;
+	color: white;
+	font-size: 17px;
+	position: relative;
+	left: 26px;
+}
+
+.ul h6{
+	position: relative;
+	bottom: 95px;
+	left: 87%;
+	font-size: 13px;
+	color: white;
+}
+
+.frm{
+	position: relative;
+	top: 90px;
+	left: 34%;
+	background: #d0c8da;
+	width: 250px;
+	padding: 20px;
+	border-radius: 10px;
+}
+.btn{
+	background: #712fc3;
+	color: white;
+	border: none;
+	padding: 3px;
+	font-size: 17px;
+	border-radius: 3px;
+	position: relative;
+	left: 27%;
+	top: 10px;
+	width: 120px;
+}
+
+.cpz{
+	color: #712fc3;
+	position: relative;
+	bottom: 20px;
+	}
+	.yn{
+		position: relative;
+		left: 30%;
+	}
+	.ch{
+		position: relative;
+		left: 20%;
+	}
+	.op{
+		position: relative;
+		left:20px;
+		width: 200px;
+	}
+	.op2{
+		position: relative;
+		left:20px;
+		width: 200px;
+	}
+	.nam{
+		position: relative;
+		left: 20px;
+
+		width: 200px;
+		border: none;
+		border-radius: 10px;
+	}
+	p.nww{
+		position: relative;
+		left: 29px;
+		bottom: 50px;
+		font-size: 20px;
+	}
+	.view{
+		position: relative;
+		text-decoration: none;
+		background: #a2363b;
+		color: white;
+		padding: 2px;
+		border-radius: 10px;
+		bottom: 68px;
+		left: 0px;
+	}
+
+	.idd{
+		font-size: 22px;
+	}
+	.post{
+		position: relative;
+		display: inline-block;
+		top: 20px;
+		padding: 40px;
+	}
+
+	.all{
+		position: relative;
+		top: 70px;
+		left: 20px;
+	}
+	.vv{
+		position: relative;
+		top: 90px;
+		left: 10px;
+	}
